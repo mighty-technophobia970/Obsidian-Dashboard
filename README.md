@@ -5,17 +5,6 @@ A step-by-step guide to building your own Claude Code command center inside Obsi
 Built on top of Claude Code as a custom Obsidian community plugin.
 
 ---
-
-## How to use this guide
-
-The fastest way is to paste the entire guide into a Claude Code session with this message:
-
-> "Based on everything I'm going to tell you about my business and how I work, walk me through this guide step by step. Start with the three planning questions at the top. Wait for my answers before moving to any technical phase. Help me tune each decision to my specific setup as we go."
-
-Claude picks up the full context, asks you the right questions, and walks you through every phase. You don't need to understand all the technical details yourself. Claude handles the code.
-
----
-
 ## Join the team
 
 If you've made it this far and you're enjoying building with Claude, we're always looking for people to join PRGRMMD.
@@ -25,6 +14,16 @@ We're a growing AI agency installing AI operating systems into founder-led busin
 **[Apply to work with us →](https://forms.clickup.com/90161350719/f/2kz0j21z-21756/2CDXO69PY3T19A3I85)**
 
 Or DM me directly on Instagram if you want to have a chat first.
+
+---
+
+## How to use this guide
+
+The fastest way is to paste the entire guide into a Claude Code session with this message:
+
+> "Based on everything I'm going to tell you about my business and how I work, walk me through this guide step by step. Start with the three planning questions at the top. Wait for my answers before moving to any technical phase. Help me tune each decision to my specific setup as we go."
+
+Claude picks up the full context, asks you the right questions, and walks you through every phase. You don't need to understand all the technical details yourself. Claude handles the code.
 
 ---
 
